@@ -1,0 +1,19 @@
+current directory: /home/cheges/Desktop/FI-labs/Phase-4/phase-4-rails-and-active-record-readme/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20221125-24594-112v1hr.rb extconf.rb
+checking for BIO_read() in -lcrypto... no
+checking for BIO_read() in -llibeay32... no
+creating Makefile
+
+current directory: /home/cheges/Desktop/FI-labs/Phase-4/phase-4-rails-and-active-record-readme/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+make "DESTDIR=" clean
+
+current directory: /home/cheges/Desktop/FI-labs/Phase-4/phase-4-rails-and-active-record-readme/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+make "DESTDIR="
+compiling http11_parser.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.so
+
+current directory: /home/cheges/Desktop/FI-labs/Phase-4/phase-4-rails-and-active-record-readme/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20221125-24594-p687tg/puma
